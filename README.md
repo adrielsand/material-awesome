@@ -1,8 +1,6 @@
 ## Material and Mouse driven theme for [AwesomeWM 4.3](https://awesomewm.org/)
 ### Original work by PapyElGringo, official development seem to have moved to [material-shell](https://github.com/PapyElGringo/material-shell)
 
-Note: This fork focuses on streamlining the config and adding some Quality of Life touches to the theme.
-
 An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) following the [Material Design guidelines](https://material.io) with a performant opiniated mouse/keyboard workflow to increase daily productivity and comfort.
 
 [![](./theme/PapyElGringo-theme/demo.gif?raw=true)](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)
@@ -54,7 +52,7 @@ wget -qO- https://git.io/papirus-icon-theme-install | sh
 ### 2) Clone the configuration
 
 ```
-git clone https://github.com/ChrisTitusTech/material-awesome.git ~/.config/awesome
+git clone https://github.com/adrielsand/material-awesome.git ~/.config/awesome
 ```
 
 ### 3) Set the themes
